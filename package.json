@@ -1,0 +1,28 @@
+{
+  "name": "this-is-not-a-package",
+  "version": "1.0.0",
+  "description": "this is not a description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: this is not a test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charbelrami/this-is-not-a-package.git"
+  },
+  "keywords": [
+    "René",
+    "Magritte",
+    "Ceci",
+    "n'est",
+    "pas",
+    "une",
+    "pipe"
+  ],
+  "author": "Charbel Rami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charbelrami/this-is-not-a-package/issues"
+  },
+  "homepage": "https://github.com/charbelrami/this-is-not-a-package#readme"
+}
